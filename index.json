@@ -1,0 +1,41 @@
+{
+    "estado": 200,
+    "id": "50",
+    "cantidad": 40,
+    "dataLogHomologacion": [
+        {
+        "log_hom_id": "66",
+        "log_hom_estado": "0", "log_hom_pro_id": "50",
+        "log_hom_producto_id": null, "log_hom_dato_jgb": null,
+        "log_hom_dato_error": "Bogotáa", "log_hom_dato_id": null,
+        "log_hom_fila": "3",
+        "log_hom_hoja": "1",
+        "log_hom_operacion_id": "5",
+        "log_hom_columna": "J",
+        "log_hom_nombre_ruta": "C:\\Users\\eholding01\\Downloads\\PRUEBA11.xlsx",
+        "log_hom_homologado_por": null, "log_hom_homologado_en": null,
+        "log_hom_updated_by": null,
+        "log_hom_created_by": "1",
+        "log_hom_updated_at": "2024-02-29 16:10:00.5700000",
+        "log_hom_created_at": "2024-02-29 16:10:00.570"
+        },
+        {
+            "log_hom_id": "67", "log_hom_estado": "0",
+            "log_hom_pro_id ": "50",
+            "log_hom_producto_id": null,
+            "log_hom_dato_jgb": null,
+            "log_hom_dato_error": "Bogotáa",
+            "log_hom_dato_id": null,
+            "log_hom_fila": "5",
+            "log_hom_hoja": "1",
+            "log_hom_operacion_id": "5",
+            "log_hom_columna": "J",
+            "log_hom_nombre_ruta": "C:\\Users\\eholding01\\Downloads\\PRUEBA11.xlsx",
+            "log_hom_homologado_por": null, "log_hom_homologado_en": null,
+            "log_hom_updated_by": null,
+            "log_hom_created_by": "1",
+            "log_hom_updated_at": "2024-02-29 16:10:00.5700000",
+            "log_hom_created_at": "2024-02-29 16:10:00.570"
+        }
+    ]
+}
