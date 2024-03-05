@@ -5,127 +5,6 @@
     "cantidad": 40,
     "data": [
         {
-            "id": "66",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "Bogotáa",
-            "fila": "3",
-            "hoja": "1",
-            "columna": "J",
-            "operacion": "Regional (Oficina/Ciudad)"
-        },
-        {
-            "id": "67",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "Bogotáa",
-            "fila": "5",
-            "hoja": "1",
-            "columna": "J",
-            "operacion": "Regional (Oficina/Ciudad)"
-        },
-        {
-            "id": "68",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "Caliii",
-            "fila": "6",
-            "hoja": "1",
-            "columna": "J",
-            "operacion": "Regional (Oficina/Ciudad)"
-        },
-        {
-            "id": "69",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "Caliii",
-            "fila": "8",
-            "hoja": "1",
-            "columna": "J",
-            "operacion": "Regional (Oficina/Ciudad)"
-        },
-        {
-            "id": "70",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "Bogotáa",
-            "fila": "11",
-            "hoja": "1",
-            "columna": "J",
-            "operacion": "Regional (Oficina/Ciudad)"
-        },
-        {
-            "id": "71",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "Baranquilla",
-            "fila": "12",
-            "hoja": "1",
-            "columna": "J",
-            "operacion": "Regional (Oficina/Ciudad)"
-        },
-        {
-            "id": "72",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "Baranquilla",
-            "fila": "14",
-            "hoja": "1",
-            "columna": "J",
-            "operacion": "Regional (Oficina/Ciudad)"
-        },
-        {
-            "id": "73",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "Pastst",
-            "fila": "17",
-            "hoja": "1",
-            "columna": "J",
-            "operacion": "Regional (Oficina/Ciudad)"
-        },
-        {
-            "id": "74",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "Pastst",
-            "fila": "18",
-            "hoja": "1",
-            "columna": "J",
-            "operacion": "Regional (Oficina/Ciudad)"
-        },
-        {
-            "id": "75",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "Baranquilla",
-            "fila": "20",
-            "hoja": "1",
-            "columna": "J",
-            "operacion": "Regional (Oficina/Ciudad)"
-        },
-        {
-            "id": "76",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "Pastst",
-            "fila": "21",
-            "hoja": "1",
-            "columna": "J",
-            "operacion": "Regional (Oficina/Ciudad)"
-        },
-        {
             "id": "77",
             "estado": "0",
             "proceso": "Prueba 103",
@@ -134,29 +13,8 @@
             "fila": "23",
             "hoja": "1",
             "columna": "J",
-            "operacion": "Regional (Oficina/Ciudad)"
-        },
-        {
-            "id": "78",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "Pastst",
-            "fila": "24",
-            "hoja": "1",
-            "columna": "J",
-            "operacion": "Regional (Oficina/Ciudad)"
-        },
-        {
-            "id": "79",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "Pastst",
-            "fila": "25",
-            "hoja": "1",
-            "columna": "J",
-            "operacion": "Regional (Oficina/Ciudad)"
+            "operacion": "Regional (Oficina/Ciudad)",
+            "cantidad": "4"
         },
         {
             "id": "80",
@@ -167,7 +25,8 @@
             "fila": "26",
             "hoja": "1",
             "columna": "J",
-            "operacion": "Regional (Oficina/Ciudad)"
+            "operacion": "Regional (Oficina/Ciudad)",
+            "cantidad": "3"
         },
         {
             "id": "81",
@@ -178,7 +37,20 @@
             "fila": "28",
             "hoja": "1",
             "columna": "J",
-            "operacion": "Regional (Oficina/Ciudad)"
+            "operacion": "Regional (Oficina/Ciudad)",
+            "cantidad": "4"
+        },
+        {
+            "id": "79",
+            "estado": "0",
+            "proceso": "Prueba 103",
+            "procesoId": "50",
+            "datoError": "Pastst",
+            "fila": "25",
+            "hoja": "1",
+            "columna": "J",
+            "operacion": "Regional (Oficina/Ciudad)",
+            "cantidad": "5"
         },
         {
             "id": "82",
@@ -189,7 +61,8 @@
             "fila": "5",
             "hoja": "1",
             "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
         },
         {
             "id": "83",
@@ -200,205 +73,8 @@
             "fila": "6",
             "hoja": "1",
             "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "84",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "1819818948",
-            "fila": "7",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "85",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "5898289828",
-            "fila": "8",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "86",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "5988978941",
-            "fila": "9",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "87",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "4984981981",
-            "fila": "10",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "88",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "4981894188",
-            "fila": "11",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "89",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "4198198718",
-            "fila": "12",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "90",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "4911898798",
-            "fila": "13",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "91",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "94819874918",
-            "fila": "14",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "92",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "5988978941",
-            "fila": "15",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "93",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "48489874181",
-            "fila": "16",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "94",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "48684198489",
-            "fila": "17",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "95",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "4984981657",
-            "fila": "18",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "96",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "4168741987",
-            "fila": "19",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "97",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "941987654685",
-            "fila": "20",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "98",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "498741986416",
-            "fila": "21",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "99",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "49873549898",
-            "fila": "22",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "100",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "498416574186",
-            "fila": "23",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
-        },
-        {
-            "id": "101",
-            "estado": "0",
-            "proceso": "Prueba 103",
-            "procesoId": "50",
-            "datoError": "49874689841",
-            "fila": "24",
-            "hoja": "1",
-            "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
         },
         {
             "id": "102",
@@ -409,7 +85,200 @@
             "fila": "25",
             "hoja": "1",
             "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "2"
+        },
+        {
+            "id": "85",
+            "estado": "0",
+            "proceso": "Prueba 103",
+            "procesoId": "50",
+            "datoError": "5898289828",
+            "fila": "8",
+            "hoja": "1",
+            "columna": "D",
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
+        },
+        {
+            "id": "92",
+            "estado": "0",
+            "proceso": "Prueba 103",
+            "procesoId": "50",
+            "datoError": "5988978941",
+            "fila": "15",
+            "hoja": "1",
+            "columna": "D",
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "2"
+        },
+        {
+            "id": "87",
+            "estado": "0",
+            "proceso": "Prueba 103",
+            "procesoId": "50",
+            "datoError": "4984981981",
+            "fila": "10",
+            "hoja": "1",
+            "columna": "D",
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
+        },
+        {
+            "id": "88",
+            "estado": "0",
+            "proceso": "Prueba 103",
+            "procesoId": "50",
+            "datoError": "4981894188",
+            "fila": "11",
+            "hoja": "1",
+            "columna": "D",
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
+        },
+        {
+            "id": "89",
+            "estado": "0",
+            "proceso": "Prueba 103",
+            "procesoId": "50",
+            "datoError": "4198198718",
+            "fila": "12",
+            "hoja": "1",
+            "columna": "D",
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
+        },
+        {
+            "id": "90",
+            "estado": "0",
+            "proceso": "Prueba 103",
+            "procesoId": "50",
+            "datoError": "4911898798",
+            "fila": "13",
+            "hoja": "1",
+            "columna": "D",
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
+        },
+        {
+            "id": "91",
+            "estado": "0",
+            "proceso": "Prueba 103",
+            "procesoId": "50",
+            "datoError": "94819874918",
+            "fila": "14",
+            "hoja": "1",
+            "columna": "D",
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
+        },
+        {
+            "id": "93",
+            "estado": "0",
+            "proceso": "Prueba 103",
+            "procesoId": "50",
+            "datoError": "48489874181",
+            "fila": "16",
+            "hoja": "1",
+            "columna": "D",
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
+        },
+        {
+            "id": "94",
+            "estado": "0",
+            "proceso": "Prueba 103",
+            "procesoId": "50",
+            "datoError": "48684198489",
+            "fila": "17",
+            "hoja": "1",
+            "columna": "D",
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
+        },
+        {
+            "id": "95",
+            "estado": "0",
+            "proceso": "Prueba 103",
+            "procesoId": "50",
+            "datoError": "4984981657",
+            "fila": "18",
+            "hoja": "1",
+            "columna": "D",
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
+        },
+        {
+            "id": "96",
+            "estado": "0",
+            "proceso": "Prueba 103",
+            "procesoId": "50",
+            "datoError": "4168741987",
+            "fila": "19",
+            "hoja": "1",
+            "columna": "D",
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
+        },
+        {
+            "id": "97",
+            "estado": "0",
+            "proceso": "Prueba 103",
+            "procesoId": "50",
+            "datoError": "941987654685",
+            "fila": "20",
+            "hoja": "1",
+            "columna": "D",
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
+        },
+        {
+            "id": "98",
+            "estado": "0",
+            "proceso": "Prueba 103",
+            "procesoId": "50",
+            "datoError": "498741986416",
+            "fila": "21",
+            "hoja": "1",
+            "columna": "D",
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
+        },
+        {
+            "id": "99",
+            "estado": "0",
+            "proceso": "Prueba 103",
+            "procesoId": "50",
+            "datoError": "49873549898",
+            "fila": "22",
+            "hoja": "1",
+            "columna": "D",
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
+        },
+        {
+            "id": "100",
+            "estado": "0",
+            "proceso": "Prueba 103",
+            "procesoId": "50",
+            "datoError": "498416574186",
+            "fila": "23",
+            "hoja": "1",
+            "columna": "D",
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
+        },
+        {
+            "id": "101",
+            "estado": "0",
+            "proceso": "Prueba 103",
+            "procesoId": "50",
+            "datoError": "49874689841",
+            "fila": "24",
+            "hoja": "1",
+            "columna": "D",
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
         },
         {
             "id": "103",
@@ -420,7 +289,8 @@
             "fila": "26",
             "hoja": "1",
             "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
         },
         {
             "id": "104",
@@ -431,7 +301,8 @@
             "fila": "27",
             "hoja": "1",
             "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
         },
         {
             "id": "105",
@@ -442,7 +313,8 @@
             "fila": "28",
             "hoja": "1",
             "columna": "D",
-            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena"
+            "operacion": "Precio JGB (EAN) - Canal Droguerias de Cadena",
+            "cantidad": "1"
         }
     ],
     "mensaje": ""
