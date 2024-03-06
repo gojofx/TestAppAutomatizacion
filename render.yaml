@@ -1,0 +1,5 @@
+services:
+  - name: web
+    env: node
+    start_command: node app.js
+    port: 3000
