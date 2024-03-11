@@ -1,0 +1,104 @@
+{
+    "estado": 200,
+    "id": "5",
+    "cantidad": 15,
+    "data": [
+      {
+        "Municipio": "El Encanto",
+        "Departamento": "Amazonas",
+        "RegionalJGB": "CALI",
+        "Observaciones": null
+      },
+      {
+        "Municipio": "La Chorrera",
+        "Departamento": "Amazonas",
+        "RegionalJGB": "CALI",
+        "Observaciones": null
+      },
+      {
+        "Municipio": "La Pedrera",
+        "Departamento": "Amazonas",
+        "RegionalJGB": "CALI",
+        "Observaciones": null
+      },
+      {
+        "Municipio": "La Victoria",
+        "Departamento": "Amazonas",
+        "RegionalJGB": "CALI",
+        "Observaciones": null
+      },
+      {
+        "Municipio": "Leticia",
+        "Departamento": "Amazonas",
+        "RegionalJGB": "CALI",
+        "Observaciones": null
+      },
+      {
+        "Municipio": "Miriti Paraná",
+        "Departamento": "Amazonas",
+        "RegionalJGB": "CALI",
+        "Observaciones": null
+      },
+      {
+        "Municipio": "Puerto Alegría",
+        "Departamento": "Amazonas",
+        "RegionalJGB": "CALI",
+        "Observaciones": null
+      },
+      {
+        "Municipio": "Puerto Arica",
+        "Departamento": "Amazonas",
+        "RegionalJGB": "CALI",
+        "Observaciones": null
+      },
+      {
+        "Municipio": "Puerto Nariño",
+        "Departamento": "Amazonas",
+        "RegionalJGB": "CALI",
+        "Observaciones": null
+      },
+      {
+        "Municipio": "Puerto Santander",
+        "Departamento": "Amazonas",
+        "RegionalJGB": "CALI",
+        "Observaciones": null
+      },
+      {
+        "Municipio": "Tarapacá",
+        "Departamento": "Amazonas",
+        "RegionalJGB": "CALI",
+        "Observaciones": null
+      },
+      {
+        "Municipio": "Almaguer",
+        "Departamento": "Cauca",
+        "RegionalJGB": "CALI",
+        "Observaciones": null
+      },
+      {
+        "Municipio": "Argelia",
+        "Departamento": "Cauca",
+        "RegionalJGB": "CALI",
+        "Observaciones": null
+      },
+      {
+        "Municipio": "Balboa",
+        "Departamento": "Cauca",
+        "RegionalJGB": "CALI",
+        "Observaciones": null
+      },
+      {
+        "Municipio": "Bolívar",
+        "Departamento": "Cauca",
+        "RegionalJGB": "CALI",
+        "Observaciones": null
+      }
+    ],
+    "mensaje": "",
+    "encabezados": [
+      "Municipio",
+      "Departamento",
+      "RegionalJGB",
+      "Observaciones"
+    ]
+  }
